@@ -21,7 +21,9 @@ Queries:crazykishore2015@gmail.com
 repo_url:https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino.git
 
 
-output:Testing_output
+output: https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino/tree/master/Output
+
+sourcecode_url: https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino/tree/master/sourcecode
 
 
 
