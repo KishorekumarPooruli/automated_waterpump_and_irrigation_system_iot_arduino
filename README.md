@@ -5,8 +5,6 @@ Software used:Arduino_compiler
 
 Board:Arduino_uno
 
-Language:embedded_arduino_C_language
-
 SENSORS:    0.TEMPERATURE SENSOR
             1.WATERLEVEL SENSOR
             2.FLAME SENSOR
@@ -20,11 +18,10 @@ Kishore kumar P.B
 
 Queries:crazykishore2015@gmail.com
 
-repo_url: https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino.git
+repo_url:https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino.git
 
-output_url: https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino/tree/master/Output
 
-source_code_url: https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino/tree/master/sourcecode
+output:Testing_output
 
 
 
