@@ -1,5 +1,7 @@
 This is the Simple IOT Project.(Version_1)...(in_developing_stages)
 
+Which is used to Monitor the Temp,waterlevel,flame,moisture and rain detect
+
 
 Software used:Arduino_compiler
 
@@ -12,9 +14,12 @@ SENSORS:    0.TEMPERATURE SENSOR
             4.RAIN DETECT SENSOR
             5.LCD 
 
-Developed_by:
+# Developed_by:
 
-Kishore kumar P.B
+# Kishore kumar P.B
+
+https://www.linkedin.com/in/kishorekumarpooruli/
+
 
 Queries:crazykishore2015@gmail.com
 
