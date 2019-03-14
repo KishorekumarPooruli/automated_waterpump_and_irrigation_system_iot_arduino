@@ -23,12 +23,18 @@ https://www.linkedin.com/in/kishorekumarpooruli/
 
 Queries:crazykishore2015@gmail.com
 
-repo_url:https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino.git
+# repo_url:
+
+https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino.git
 
 
-output: https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino/tree/master/Output
+#output: 
 
-sourcecode_url: https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino/tree/master/sourcecode
+https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino/tree/master/Output
+
+# sourcecode_url: 
+
+https://github.com/Kishorekumar007DoN/automated_waterpump_and_irrigation_system_iot_arduino/tree/master/sourcecode
 
 
 
